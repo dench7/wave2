@@ -101,5 +101,5 @@ sudo apt update
 sudo apt -y install software-properties-common dirmngr apt-transport-https lsb-release ca-certificates
 sudo add-apt-repository ppa:bashtop-monitor/bashtop
 sudo apt update 
-sudo apt install bashtop
+sudo apt install bashtop -y
 sleep 1
