@@ -1,19 +1,19 @@
 #!/bin/bash
 
 echo "================================================================"
-echo -e "\038[0;40m"
+echo -e '\e[40m\e[92m'
 echo "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
-echo "  x                                                           x";
-echo "  x  nn      nn   nnnnnn     nnnnnn   nnnnnnnn     nnnnnnn    x";
-echo "  x  ooo     oo oo      oo oo      oo oo      oo oo       oo  x";
-echo "  x  oooo    oo oo      oo oo      oo oo      oo oo       oo  x";
-echo "  x  bb bb   bb bb      bb bb      bb bb      bb bb           x";
-echo "  x  ss  ss  ss ss      ss ss      ss ssssssss     sssssss    x";
-echo "  x  bb   bb bb bb      bb bb      bb bb      bb          bb  x";
-echo "  x  oo    oooo oo      oo oo      oo oo      oo oo       oo  x";
-echo "  x  oo     ooo oo      oo oo      oo oo      oo oo       oo  x";
-echo "  x  nn      nn   nnnnnn     nnnnnn   nnnnnnnn     nnnnnnn    x";
-echo "  x                                                           x";
+echo "                                                               ";
+echo "     $$      $$   $$$$$$     $$$$$$   $$$$$$$$     $$$$$$$     ";
+echo "     $$$     $$ $$      $$ $$      $$ $$      $$ $$       $$   ";
+echo "     $$$$    $$ $$      $$ $$      $$ $$      $$ $$       $$   ";
+echo "     $$ $$   $$ $$      $$ $$      $$ $$      $$ $$            ";
+echo "     $$  $$  $$ $$      $$ $$      $$ $$$$$$$$     $$$$$$$     ";
+echo "     $$   $$ $$ $$      $$ $$      $$ $$      $$          $$   ";
+echo "     $$    $$$$ $$      $$ $$      $$ $$      $$ $$       $$   ";
+echo "     $$     $$$ $$      $$ $$      $$ $$      $$ $$       $$   ";
+echo "     $$      $$   $$$$$$     $$$$$$   $$$$$$$$     $$$$$$$     ";
+echo "                                                                ";
 echo "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 echo -e "\e[0m"
 echo "================================================================"
