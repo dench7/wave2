@@ -1,22 +1,22 @@
 #!/bin/bash
 
-echo "============================================================"
-echo -e "\033[0;35m"
-echo "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
-echo "                                                           ";
-echo "  nn      nn   nnnnnn     nnnnnn   nnnnnnnn     nnnnnnn    ";
-echo "  ooo     oo oo      oo oo      oo oo      oo oo       oo  ";
-echo "  oooo    oo oo      oo oo      oo oo      oo oo       oo  ";
-echo "  bb bb   bb bb      bb bb      bb bb      bb bb           ";
-echo "  ss  ss  ss ss      ss ss      ss ssssssss     sssssss    ";
-echo "  bb   bb bb bb      bb bb      bb bb      bb          bb  ";
-echo "  oo    oooo oo      oo oo      oo oo      oo oo       oo  ";
-echo "  oo     ooo oo      oo oo      oo oo      oo oo       oo  ";
-echo "  nn      nn   nnnnnn     nnnnnn   nnnnnnnn     nnnnnnn    ";
-echo "                                                           ";
-echo "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+echo "================================================================"
+echo -e "\038[0;40m"
+echo "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+echo "  x                                                           x";
+echo "  x  nn      nn   nnnnnn     nnnnnn   nnnnnnnn     nnnnnnn    x";
+echo "  x  ooo     oo oo      oo oo      oo oo      oo oo       oo  x";
+echo "  x  oooo    oo oo      oo oo      oo oo      oo oo       oo  x";
+echo "  x  bb bb   bb bb      bb bb      bb bb      bb bb           x";
+echo "  x  ss  ss  ss ss      ss ss      ss ssssssss     sssssss    x";
+echo "  x  bb   bb bb bb      bb bb      bb bb      bb          bb  x";
+echo "  x  oo    oooo oo      oo oo      oo oo      oo oo       oo  x";
+echo "  x  oo     ooo oo      oo oo      oo oo      oo oo       oo  x";
+echo "  x  nn      nn   nnnnnn     nnnnnn   nnnnnnnn     nnnnnnn    x";
+echo "  x                                                           x";
+echo "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 echo -e "\e[0m"
-echo "============================================================"
+echo "================================================================"
 
 
 echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
