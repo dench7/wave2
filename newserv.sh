@@ -3,15 +3,17 @@
 echo "============================================================"
 echo -e "\033[0;35m"
 echo "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
-echo "  11      11   111111     111111   11111111     1111111    ";
-echo "  222     22 22      22 22      22 22      22 22       22  ";
-echo "  3333    33 33      33 33      33 33      33 33       33  ";
-echo "  44 44   44 44      44 44      44 44      44 44           ";
-echo "  55  55  55 55      55 55      55 55555555     5555555    ";
-echo "  44   44 44 44      44 44      44 44      44          44  ";
-echo "  33    3333 33      33 33      33 33      33 33       33  ";
-echo "  22     222 22      22 22      22 22      22 22       22  ";
-echo "  11      11   111111     111111   11111111     1111111    ";
+echo "                                                           ";
+echo "  nn      nn   nnnnnn     nnnnnn   nnnnnnnn     nnnnnnn    ";
+echo "  ooo     oo oo      oo oo      oo oo      oo oo       oo  ";
+echo "  oooo    oo oo      oo oo      oo oo      oo oo       oo  ";
+echo "  bb bb   bb bb      bb bb      bb bb      bb bb           ";
+echo "  ss  ss  ss ss      ss ss      ss ssssssss     sssssss    ";
+echo "  bb   bb bb bb      bb bb      bb bb      bb          bb  ";
+echo "  oo    oooo oo      oo oo      oo oo      oo oo       oo  ";
+echo "  oo     ooo oo      oo oo      oo oo      oo oo       oo  ";
+echo "  nn      nn   nnnnnn     nnnnnn   nnnnnnnn     nnnnnnn    ";
+echo "                                                           ";
 echo "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 echo -e "\e[0m"
 echo "============================================================"
