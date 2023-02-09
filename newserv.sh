@@ -1,22 +1,5 @@
 #!/bin/bash
 
-echo "================================================================"
-echo -e '\e[40m\e[92m'
-echo "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
-echo "                                                               ";
-echo "     $$      $$   $$$$$$     $$$$$$   $$$$$$$$     $$$$$$$     ";
-echo "     $$$     $$ $$      $$ $$      $$ $$      $$ $$       $$   ";
-echo "     $$$$    $$ $$      $$ $$      $$ $$      $$ $$       $$   ";
-echo "     $$ $$   $$ $$      $$ $$      $$ $$      $$ $$            ";
-echo "     $$  $$  $$ $$      $$ $$      $$ $$$$$$$$     $$$$$$$     ";
-echo "     $$   $$ $$ $$      $$ $$      $$ $$      $$          $$   ";
-echo "     $$    $$$$ $$      $$ $$      $$ $$      $$ $$       $$   ";
-echo "     $$     $$$ $$      $$ $$      $$ $$      $$ $$       $$   ";
-echo "     $$      $$   $$$$$$     $$$$$$   $$$$$$$$     $$$$$$$     ";
-echo "                                                                ";
-echo "  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
-echo -e "\e[0m"
-echo "================================================================"
 
 
 echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
