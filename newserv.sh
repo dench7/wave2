@@ -33,7 +33,7 @@ echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 sleep 5
 
-sudo apt install curl build-essential git wget jq make gcc tmux -y
+sudo apt install curl build-essential git wget jq make gcc screen tmux -y
 
 sleep 1
 echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
