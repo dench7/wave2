@@ -16,7 +16,7 @@ echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 sleep 5
 
-sudo apt install curl build-essential git wget jq make gcc screen tmux -y
+sudo apt install curl build-essential git wget jq make gcc ncdu screen tmux -y
 
 sleep 1
 echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
@@ -82,7 +82,6 @@ echo "=====================Install Bashtop====================="
 echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 sleep 5
-sudo apt update
 sudo apt -y install software-properties-common dirmngr apt-transport-https lsb-release ca-certificates
 sudo add-apt-repository ppa:bashtop-monitor/bashtop
 sudo apt update 
