@@ -47,3 +47,11 @@ p2p-config:
     - address: /dns/los-angeles-1.sui.nodiums.com/udp/9999
     - address: /dns/dallas-1.sui.nodiums.com/udp/9999
 
+
+authority-store-pruning-config:
+  objects-num-latest-versions-to-retain: 3
+  objects-pruning-period-secs: 86400
+  objects-pruning-initial-delay-secs: 1800
+  num-latest-epoch-dbs-to-retain: 2
+  epoch-db-pruning-period-secs: 1800
+  enable-live-pruner: true
