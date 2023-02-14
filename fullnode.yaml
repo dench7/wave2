@@ -20,3 +20,30 @@ p2p-config:
     - address: /ip4/144.91.76.233/udp/8080
     - address: /ip4/45.67.217.113/udp/8080
     - address: /ip4/65.109.112.177/udp/8080
+    - address: /ip4/15.204.163.225/udp/8080
+    - address: /ip4/65.108.68.119/udp/8080
+    - address: /ip4/155.133.22.151/udp/8080
+    - address: /ip4/45.14.194.21/udp/8080
+    - address: /ip4/159.69.58.44/udp/8080
+    - address: /ip4/139.180.130.95/udp/8084
+    - address: /ip4/51.178.73.193/udp/8084
+    - address: /ip4/184.174.33.39/udp/8084
+    - address: /ip4/184.174.33.40/udp/8084
+    - address: /ip4/162.19.84.43/udp/8084
+    - address: /ip4/146.59.68.207/udp/8080
+    - address: /ip4/89.58.5.19/udp/8084
+    - address: /ip4/38.242.227.80/udp/8080
+    - address: /ip4/144.217.10.44/udp/8080
+    - address: /ip4/178.18.250.62/udp/8080
+    - address: /ip4/213.239.215.119/udp/8084
+    - address: /dns/seoul-1.sui.nodiums.com/udp/9999
+    - address: /dns/seoul-2.sui.nodiums.com/udp/9999
+    - address: /dns/singapore-1.sui.nodiums.com/udp/9999
+    - address: /dns/singapore-2.sui.nodiums.com/udp/9999
+    - address: /dns/singapore-3.sui.nodiums.com/udp/9999
+    - address: /dns/singapore-4.sui.nodiums.com/udp/9999
+    - address: /dns/toronto-1.sui.nodiums.com/udp/9999
+    - address: /dns/mumbai-1.sui.nodiums.com/udp/9999
+    - address: /dns/los-angeles-1.sui.nodiums.com/udp/9999
+    - address: /dns/dallas-1.sui.nodiums.com/udp/9999
+
