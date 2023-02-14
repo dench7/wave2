@@ -51,7 +51,7 @@ p2p-config:
 authority-store-pruning-config:
   objects-num-latest-versions-to-retain: 3
   objects-pruning-period-secs: 86400
-  objects-pruning-initial-delay-secs: 1800
+  objects-pruning-initial-delay-secs: 3600
   num-latest-epoch-dbs-to-retain: 2
   epoch-db-pruning-period-secs: 1800
   enable-live-pruner: true
